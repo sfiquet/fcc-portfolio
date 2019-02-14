@@ -1,7 +1,7 @@
 # Personal Portfolio
 This project is part of freeCodeCamp's Responsive Web Design Certification. It's written in HTML and CSS, with Bootstrap 4 and Sass.
 
-See it live at https://sfiquet.github.io/portfolio.
+See it live at https://sfiquet.github.io/fcc-portfolio.
 
 # Specifications
 Here are the [project specifications](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) at the time of implementation:
